@@ -48,4 +48,3 @@ The model achieves consistent classification performance on the MIT-BIH test set
 - CNN-based or temporal models for improved feature learning
 - More refined multi-class arrhythmia analysis
 
-## Repository Structure
