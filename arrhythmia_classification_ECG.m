@@ -141,3 +141,4 @@ f1        = 2 * (precision .* recall) ./ (precision + recall);
 macroF1   = mean(f1, 'omitnan');
 
 fprintf('Macro F1-score: %.3f\n', macroF1);
+
